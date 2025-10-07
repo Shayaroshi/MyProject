@@ -1,0 +1,51 @@
+SaleID,Date,ProductID,ProductName,Category,Quantity,UnitPrice,Region
+1,2025-09-01,P001,Drinking Water,Beverages,10,5,Thungsong
+2,2025-09-01,P002,Snacks,Snacks,5,20,Thungsong
+3,2025-09-01,P003,Soda,Beverages,8,12,Thungsong
+4,2025-09-02,P004,Canned Coffee,Beverages,7,25,Thungsong
+5,2025-09-02,P005,Sweets,Snacks,6,15,Thungsong
+6,2025-09-02,P006,Fruit Juice,Beverages,12,18,Thungsong
+7,2025-09-03,P007,Baked Snacks,Snacks,9,22,Thungsong
+8,2025-09-03,P008,Canned Green Tea,Beverages,11,20,Thungsong
+9,2025-09-03,P009,Chocolate,Snacks,4,30,Thungsong
+10,2025-09-04,P010,Fresh Milk,Beverages,14,28,Thungsong
+11,2025-09-04,P001,Drinking Water,Beverages,15,5,Thungsong
+12,2025-09-04,P002,Snacks,Snacks,7,20,Thungsong
+13,2025-09-05,P003,Soda,Beverages,9,12,Thungsong
+14,2025-09-05,P004,Canned Coffee,Beverages,8,25,Thungsong
+15,2025-09-05,P005,Sweets,Snacks,10,15,Thungsong
+16,2025-09-06,P006,Fruit Juice,Beverages,13,18,Thungsong
+17,2025-09-06,P007,Baked Snacks,Snacks,6,22,Thungsong
+18,2025-09-06,P008,Canned Green Tea,Beverages,9,20,Thungsong
+19,2025-09-07,P009,Chocolate,Snacks,7,30,Thungsong
+20,2025-09-07,P010,Fresh Milk,Beverages,12,28,Thungsong
+21,2025-09-07,P001,Drinking Water,Beverages,18,5,Thungsong
+22,2025-09-08,P002,Snacks,Snacks,10,20,Thungsong
+23,2025-09-08,P003,Soda,Beverages,14,12,Thungsong
+24,2025-09-08,P004,Canned Coffee,Beverages,5,25,Thungsong
+25,2025-09-09,P005,Sweets,Snacks,8,15,Thungsong
+26,2025-09-09,P006,Fruit Juice,Beverages,11,18,Thungsong
+27,2025-09-09,P007,Baked Snacks,Snacks,9,22,Thungsong
+28,2025-09-10,P008,Canned Green Tea,Beverages,6,20,Thungsong
+29,2025-09-10,P009,Chocolate,Snacks,10,30,Thungsong
+30,2025-09-10,P010,Fresh Milk,Beverages,13,28,Thungsong
+31,2025-09-11,P001,Drinking Water,Beverages,20,5,Thungsong
+32,2025-09-11,P002,Snacks,Snacks,12,20,Thungsong
+33,2025-09-12,P003,Soda,Beverages,15,12,Thungsong
+34,2025-09-12,P004,Canned Coffee,Beverages,10,25,Thungsong
+35,2025-09-12,P005,Sweets,Snacks,9,15,Thungsong
+36,2025-09-13,P006,Fruit Juice,Beverages,14,18,Thungsong
+37,2025-09-13,P007,Baked Snacks,Snacks,8,22,Thungsong
+38,2025-09-14,P008,Canned Green Tea,Beverages,11,20,Thungsong
+39,2025-09-14,P009,Chocolate,Snacks,7,30,Thungsong
+40,2025-09-14,P010,Fresh Milk,Beverages,15,28,Thungsong
+41,2025-09-15,P001,Drinking Water,Beverages,22,5,Thungsong
+42,2025-09-15,P002,Snacks,Snacks,13,20,Thungsong
+43,2025-09-15,P003,Soda,Beverages,16,12,Thungsong
+44,2025-09-15,P004,Canned Coffee,Beverages,12,25,Thungsong
+45,2025-09-15,P005,Sweets,Snacks,10,15,Thungsong
+46,2025-09-16,P006,Fruit Juice,Beverages,9,18,Thungsong
+47,2025-09-16,P007,Baked Snacks,Snacks,11,22,Thungsong
+48,2025-09-16,P008,Canned Green Tea,Beverages,8,20,Thungsong
+49,2025-09-16,P009,Chocolate,Snacks,12,30,Thungsong
+50,2025-09-16,P010,Fresh Milk,Beverages,14,28,Thungsong
